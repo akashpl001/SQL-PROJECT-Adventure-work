@@ -1,4 +1,3 @@
-# SQL-PROJECT-Adventure-work
 
 
 
